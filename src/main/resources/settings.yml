@@ -1,0 +1,8 @@
+title: "主标题 %player_name% -> {entity} to {damage}"
+subTitle: "副标题"
+#淡入
+fadin: 3
+#停留
+stay: 4
+#淡出
+fadeout: 3
